@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数据结构3-2仅用尾指针标识的循环链队列", "数据结构3-2仅用尾指针标识的循环链队列\数据结构3-2仅用尾指针标识的循环链队列.vcxproj", "{0432226D-6AF5-4959-89CE-C9E158E2174B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0432226D-6AF5-4959-89CE-C9E158E2174B}.Debug|x64.ActiveCfg = Debug|x64
+		{0432226D-6AF5-4959-89CE-C9E158E2174B}.Debug|x64.Build.0 = Debug|x64
+		{0432226D-6AF5-4959-89CE-C9E158E2174B}.Debug|x86.ActiveCfg = Debug|Win32
+		{0432226D-6AF5-4959-89CE-C9E158E2174B}.Debug|x86.Build.0 = Debug|Win32
+		{0432226D-6AF5-4959-89CE-C9E158E2174B}.Release|x64.ActiveCfg = Release|x64
+		{0432226D-6AF5-4959-89CE-C9E158E2174B}.Release|x64.Build.0 = Release|x64
+		{0432226D-6AF5-4959-89CE-C9E158E2174B}.Release|x86.ActiveCfg = Release|Win32
+		{0432226D-6AF5-4959-89CE-C9E158E2174B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {950F8BA0-6700-40D2-BD4F-22DFE4B1A7CC}
+	EndGlobalSection
+EndGlobal
